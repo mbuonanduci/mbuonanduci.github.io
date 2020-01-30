@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Michele S Buonanduci</title>
+    <title>Deep Learning | Michele Buonanduci</title>
     <link>/tags/deep-learning/</link>
       <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Modeling individual lodgepole pine mortality from mountain pine beetle outbreak in a spatially explicit framework</title>
+      <link>/project/fef-pico-mpb/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/fef-pico-mpb/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Internal Project</title>
