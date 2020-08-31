@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,10 +15,34 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student in the Quantitative Ecology and Resource Management program and the Harvey Lab at the University of Washington. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances across multiple spatial and temporal scales.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Brian J. Harvey</title>
+      <link>/authors/brian-j.-harvey/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-j.-harvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenna E. Morris</title>
+      <link>/authors/jenna-e.-morris/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jenna-e.-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle C. Agne</title>
+      <link>/authors/michelle-c.-agne/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michelle-c.-agne/</guid>
+      <description></description>
     </item>
     
   </channel>
