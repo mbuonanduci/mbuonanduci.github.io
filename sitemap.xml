@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/hot-spots/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +39,6 @@
   
   <url>
     <loc>/authors/jenna-e.-morris/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,18 +73,13 @@
   </url>
   
   <url>
+    <loc>/project/fef-growth/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/fef-pico-mpb/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/fef-growth/</loc>
-    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
