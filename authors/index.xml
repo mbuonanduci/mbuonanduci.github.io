@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Hello! I am a PhD candidate in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. I am also a 2021-22 
 &lt;a href=&#34;https://nwcasc.uw.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northwest Climate Adaptation Science Center&lt;/a&gt;
@@ -26,7 +26,7 @@
     <item>
       <title>Brian J. Harvey</title>
       <link>/authors/brian-j.-harvey/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/brian-j.-harvey/</guid>
       <description></description>
     </item>
@@ -34,7 +34,7 @@
     <item>
       <title>Jenna E. Morris</title>
       <link>/authors/jenna-e.-morris/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/jenna-e.-morris/</guid>
       <description></description>
     </item>
@@ -42,7 +42,7 @@
     <item>
       <title>Michelle C. Agne</title>
       <link>/authors/michelle-c.-agne/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/michelle-c.-agne/</guid>
       <description></description>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>Mike A. Battaglia</title>
       <link>/authors/mike-a.-battaglia/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/mike-a.-battaglia/</guid>
       <description></description>
     </item>
