@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Buonanduci</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Michele Buonanduci</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Fine‑scale spatial heterogeneity shapes compensatory responses of a subalpine forest to severe bark beetle outbreak</title>
+      <link>/publication/fef-growth/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/fef-growth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Does the legacy of historical thinning treatments foster resilience to bark beetle outbreaks in subalpine forests?</title>
@@ -52,9 +60,9 @@
       <link>/project/fef-growth/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/project/fef-growth/</guid>
-      <description>&lt;p&gt;Bark beetle outbreaks structure forests not only directly via mortality of overstory trees but also indirectly by releasing the growth of understory trees as resource availability (i.e., light, water, and nutrient availability) increases for survivors. This growth release is a &lt;em&gt;compensatory response&lt;/em&gt; of trees adapted to periodic bark beetle outbreaks, preserving ecosystem function. The growth release of trees surviving bark beetle outbreaks has been well documented at the stand scale and has frequently been used to detect the occurrence of past outbreaks. However, the impact of within-stand spatial configuration (e.g., overstory mortality, live tree composition) on surviving tree growth release is less well understood. This project utilizes a spatially explicit long-term monitoring dataset of over 9,000 individually measured and mapped trees in the 
+      <description>&lt;p&gt;Bark beetle outbreaks structure forests not only directly via mortality of overstory trees but also indirectly by releasing the growth of understory trees as resource availability (i.e., light, water, and nutrient availability) increases for survivors. This growth release is a &lt;em&gt;compensatory response&lt;/em&gt; of trees adapted to periodic bark beetle outbreaks, preserving ecosystem function. The growth release of trees surviving bark beetle outbreaks has been well documented at the stand scale and has frequently been used to detect the occurrence of past outbreaks. However, the impact of within-stand spatial configuration (e.g., overstory mortality, live tree composition) on surviving tree growth release is less well understood. This project utilized a spatially explicit long-term monitoring dataset of over 9,000 individually measured and mapped trees in the 
 &lt;a href=&#34;https://www.fs.usda.gov/rmrs/experimental-forests-and-ranges/fraser-experimental-forest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser Experimental Forest&lt;/a&gt;
-.&lt;/p&gt;
+ to quantify compensatory responses in a spatially explicit framework at different scales.&lt;/p&gt;
 </description>
     </item>
     
