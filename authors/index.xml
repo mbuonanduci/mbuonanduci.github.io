@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Hello! I am a PhD candidate in the Quantitative Ecology and Resource Management program at the University of Washington, working with Dr. Brian J. Harvey. Broadly, I am interested in harnessing quantitative methods to address questions in the field of landscape ecology. My graduate research focuses on understanding the causes and consequences of forest disturbances (primarily bark beetle outbreaks and wildfires) across multiple spatial scales.&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>Brian J. Harvey</title>
       <link>/authors/brian-j.-harvey/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/authors/brian-j.-harvey/</guid>
       <description></description>
     </item>
@@ -32,7 +32,7 @@
     <item>
       <title>Jenna E. Morris</title>
       <link>/authors/jenna-e.-morris/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/authors/jenna-e.-morris/</guid>
       <description></description>
     </item>
@@ -40,7 +40,7 @@
     <item>
       <title>Michelle C. Agne</title>
       <link>/authors/michelle-c.-agne/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/authors/michelle-c.-agne/</guid>
       <description></description>
     </item>
@@ -48,7 +48,7 @@
     <item>
       <title>Mike A. Battaglia</title>
       <link>/authors/mike-a.-battaglia/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/authors/mike-a.-battaglia/</guid>
       <description></description>
     </item>
