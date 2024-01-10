@@ -5,12 +5,21 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Forest restoration effects on salmon</title>
+      <link>/project/ellsworth-salmon/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/project/ellsworth-salmon/</guid>
+      <description>&lt;p&gt;Salmon populations are in currently in crisis across the West, and environmental conditions are likely to pose even more challenges in the future as climate change warms waters in our streams and oceans. While marine and estuarine conditions strongly influence salmon population dynamics, quality freshwater habitat is also critical for salmon to successfully complete their life cycle. In coastal forests of the Pacific Northwest, salmon spawning habitat is embedded within one of the most productive, biomass-rich forest ecosystems in the world. After a century of intensive timber-focused management, however, these coastal forests are in need of restoration to enhance their old-growth structural characteristics, carbon storage potential, and resilience to climate change. Although forest management practices that benefit salmon habitat have long been enacted in the Pacific Northwest (e.g., retaining riparian forest buffers), we lack a synthetic understanding of how forest management actions aimed at restoring forest structural complexity affect the productivity of salmon populations that spawn in streams surrounded by these forests.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Burn severity spatial scaling</title>

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/project/ellsworth-salmon/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,9 +33,6 @@
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/maureen-c.-kennedy/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -54,9 +60,6 @@
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/burn-severity-scaling/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/hot-spots/</loc>
