@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Buonanduci</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Michele Buonanduci</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Few large or many small fires: Using spatial scaling of severe fire to quantify effects of fire-size distribution shifts</title>
       <link>/publication/fire_scaling_distributions/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/publication/fire_scaling_distributions/</guid>
       <description></description>
     </item>
