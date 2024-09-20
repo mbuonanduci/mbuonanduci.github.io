@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/snapp/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/wffrc/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,9 +38,6 @@
     <loc>/authors/maureen-c.-kennedy/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,9 +51,6 @@
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/ellsworth-salmon/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/fire_scaling/</loc>
@@ -62,19 +68,22 @@
     <loc>/authors/mike-a.-battaglia/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/burn-severity-scaling/</loc>
+    <loc>/project_archive/burn-severity-scaling/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/hot-spots/</loc>
+    <loc>/project_archive/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_archive/hot-spots/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/fef-pico-mpb/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/fef-growth/</loc>
+    <loc>/project_archive/fef-growth/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/fef-pico-mpb/</loc>
+    <loc>/project_archive/fef-pico-mpb/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>

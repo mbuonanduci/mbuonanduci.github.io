@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project_archives | Michele Buonanduci</title>
+    <link>/project_archive/</link>
+      <atom:link href="/project_archive/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project_archives</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Project_archives</title>
+      <link>/project_archive/</link>
+    </image>
+    
+    <item>
+      <title>Burn severity spatial scaling</title>
+      <link>/project_archive/burn-severity-scaling/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project_archive/burn-severity-scaling/</guid>
+      <description>&lt;p&gt;West of the Cascade Crest in Washington and Oregon (&amp;ldquo;northwestern Cascadia&amp;rdquo;), wildfire has historically been infrequent yet severe, occurring at intervals ranging from one to several centuries, with fire events possibly as large as one million hectares characterized by high levels of tree mortality. As climate continues to warm, some of the largest increases in area burned are expected to occur in regions such as northwestern Cascadia, where fire activity has historically been limited by cool, wet climate. Post-fire management strategies, such as replanting, can reduce the negative impacts of fire on forest ecosystems in this region. Developing post-fire response plans, however, requires an understanding of the spatial patterns of burn severity within fire events, since areas with high levels of tree mortality are where management intervention is often of greatest priority.&lt;/p&gt;
+&lt;p&gt;The objective of this research was to help managers better understand and prepare for wildfire in northwestern Cascadia. Using satellite data dating back to 1985, this project characterized how spatial patterns of burn severity, and thus fire impacts and forest regeneration needs, vary with the size of fire events in northwestern Cascadia. The results of this research provide key insights that will help land managers in this region develop strategies for adapting to a warmer, drier future that is likely to bring more frequent fire events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biotic disturbance hotspots</title>
+      <link>/project_archive/hot-spots/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project_archive/hot-spots/</guid>
+      <description>&lt;p&gt;Globally, biotic forest disturbances caused by herbivorous insects and pathogens have increased, a trend that has been linked to warming and drying climate. With this increase in biotic disturbance activity, an emerging ecological phenomenon has been documented across the western United States (US): biotic disturbance ‘hotspots’, or areas where two or more biotic disturbance agents co-occur in space and time. Biotic disturbance hotspots may have important implications for the resilience of forests in the face of climate change, particularly if they erode mechanisms of post-disturbance forest recovery. However, an exploration of the broad-scale factors associated with these hotspots (e.g., climate, weather, vegetation structure, topography) has not been conducted to date. In this project, we are working to address this knowledge gap by characterizing the spatio-temporal patterns and drivers of biotic disturbance hotspots across three broad forested regions in the western US that span differing gradients of forest types and bioclimatic conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Growth releases following bark beetle outbreak</title>
+      <link>/project_archive/fef-growth/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project_archive/fef-growth/</guid>
+      <description>&lt;p&gt;Bark beetle outbreaks structure forests not only directly via mortality of overstory trees but also indirectly by releasing the growth of understory trees as resource availability (i.e., light, water, and nutrient availability) increases for survivors. This growth release is a &lt;em&gt;compensatory response&lt;/em&gt; of trees adapted to periodic bark beetle outbreaks, preserving ecosystem function. The growth release of trees surviving bark beetle outbreaks has been well documented at the stand scale and has frequently been used to detect the occurrence of past outbreaks. However, the impact of within-stand spatial configuration (e.g., overstory mortality, live tree composition) on surviving tree growth release is less well understood. This project utilized a spatially explicit long-term monitoring dataset of over 9,000 individually measured and mapped trees in the 
+&lt;a href=&#34;https://www.fs.usda.gov/rmrs/experimental-forests-and-ranges/fraser-experimental-forest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser Experimental Forest&lt;/a&gt;
+ to quantify compensatory responses in a spatially explicit framework at different scales.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Host tree mortality from bark beetle outbreak</title>
+      <link>/project_archive/fef-pico-mpb/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project_archive/fef-pico-mpb/</guid>
+      <description>&lt;p&gt;While drivers of bark beetle outbreaks have been studied extensively at spatial scales ranging from stands to continents, within-stand processes governing individual tree mortality in an outbreak are less well understood. Here we used a spatially explicit long-term monitoring dataset of over 9,000 individually measured and mapped trees in the 
+&lt;a href=&#34;https://www.fs.usda.gov/rmrs/experimental-forests-and-ranges/fraser-experimental-forest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fraser Experimental Forest&lt;/a&gt;
+ (CO, USA) to explore interactions among fine scale drivers of beetle-caused tree mortality. Using a Bayesian spatial modeling approach, we evaluated how tree scale and tree neighborhood scale characteristics interact with tree size to mediate host tree susceptibility to mountain pine beetle outbreak in the Southern Rocky Mountains.&lt;/p&gt;
+&lt;p&gt;I completed this project as part of my Master&amp;rsquo;s thesis, entitled &amp;ldquo;Modeling individual lodgepole pine mortality from mountain pine beetle outbreak in a spatially explicit framework&amp;rdquo;, which I defended in November 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
