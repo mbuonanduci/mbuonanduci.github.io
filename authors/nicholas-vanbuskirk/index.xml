@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas VanBuskirk | Michele Buonanduci</title>
+    <link>/authors/nicholas-vanbuskirk/</link>
+      <atom:link href="/authors/nicholas-vanbuskirk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas VanBuskirk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nicholas VanBuskirk</title>
+      <link>/authors/nicholas-vanbuskirk/</link>
+    </image>
+    
+    <item>
+      <title>Forest restoration can bolster salmon population persistence under climate change</title>
+      <link>/publication/ellsworth_salmon/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ellsworth_salmon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
