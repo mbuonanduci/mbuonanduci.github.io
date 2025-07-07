@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah J. Hart | Michele Buonanduci</title>
+    <link>/authors/sarah-j.-hart/</link>
+      <atom:link href="/authors/sarah-j.-hart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah J. Hart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sarah J. Hart</title>
+      <link>/authors/sarah-j.-hart/</link>
+    </image>
+    
+    <item>
+      <title>Patterns and drivers of biotic disturbance hotspots in western United States coniferous forests</title>
+      <link>/publication/hotspots/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/hotspots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
